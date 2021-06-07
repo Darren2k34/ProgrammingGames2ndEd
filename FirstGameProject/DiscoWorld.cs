@@ -8,7 +8,7 @@ namespace FirstGameProject
 {
     public class DiscoWorld
     {
-        GraphicsDevice _graphics;
+        private GraphicsDevice _graphics;
         private Color _background;
         public DiscoWorld(GraphicsDevice graphicsDevice)
         {
